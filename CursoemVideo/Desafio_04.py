@@ -1,0 +1,5 @@
+info = input('Digite algo: ')
+print('É numérico (inteiro): {}'.format(info.isnumeric()))
+print('É alfabético: {}'.format(info.isalpha()))
+print('É alfanumérico: {}'.format(info.isalnum()))
+print('É número real: {}'.format(info.isdecimal()))
