@@ -6,6 +6,8 @@ Todos os códigos estão comentados mas vou deixar um guia aqui da funcionalidad
 
 OBS. "Repositório em fase de ORGANIZAÇÃO E COMPLEMENTAÇÕES"
 
+## Diversos (ideias e exercícios de estudo)
+
 - break.py
 
     Utilidade e funcionamento do método "break".
@@ -30,3 +32,10 @@ OBS. "Repositório em fase de ORGANIZAÇÃO E COMPLEMENTAÇÕES"
 
     Funcionalidade do for dentro do Python.
 
+## Análise de Dados
+
+## Machine Learning 
+
+- Classificação de Vinho
+
+    Inteligência artificial treinada para classificar direfentes tipos de vinho, a partir de um conjunto de dados.
