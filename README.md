@@ -32,6 +32,26 @@ OBS. "Repositório em fase de ORGANIZAÇÃO E COMPLEMENTAÇÕES"
 
     Funcionalidade do for dentro do Python.
 
+- Tipo_de_entrada.py
+
+    Em python toda entrada é uma string, nesse código exemplifico a transformação desse "input" para o dado desejado.
+
+- Media.ipynb
+
+    Calcula a média simples entre 3 números digitados pelo usuário.
+
+- Cassino.ipynb
+
+    Teste sua sorte com Python!
+
+- While.py
+
+    Exemplo da condição while em python.
+
+- Dados.ipynb
+
+    Jogue dados com um amigo!
+
 ## Análise de Dados
 
 ## Machine Learning 
