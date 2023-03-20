@@ -1,4 +1,4 @@
-# Codes-c-cpp <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+# Codes-Python <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 Repositório com códigos em Python, alguns exercícios e ideias criativas, além de conceitos da linguagem e exemplos; (Colocarei com Automações depois)
 
@@ -53,6 +53,12 @@ OBS. "Repositório em fase de ORGANIZAÇÃO E COMPLEMENTAÇÕES"
     Jogue dados com um amigo!
 
 ## Análise de Dados
+
+- Modelo de Regressão Linear Simples
+
+    Utiliza o MMQ (Método dos mínimos quadrados) para minimizar o erro e assim encontrar a melhor reta que descreve os dados (nesse caso de uma população em relação a dados territoriais do país)
+
+- Modelo de Regressão Linear Múltiplo
 
 ## Machine Learning 
 
