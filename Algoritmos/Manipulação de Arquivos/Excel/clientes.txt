@@ -1,3 +1,0 @@
-Davidson, davidson@gmail.com, Rua a
-João, joão@gmail.com, Rua b
-Maria, maria@gmail.com, Rua c
