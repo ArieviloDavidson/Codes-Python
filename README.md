@@ -5,3 +5,7 @@ Repositório com códigos em Python, alguns exercícios e ideias criativas, alé
 Todos os códigos estão comentados mas vou deixar um guia aqui da funcionalidade e objetivo de cada um deles;
 
 OBS. "Repositório em fase de ORGANIZAÇÃO E COMPLEMENTAÇÕES"
+
+## cloneflappybird
+
+- Como é bem descritivo, este é um clone do famoso jogo Flappy Bird feito em python.
